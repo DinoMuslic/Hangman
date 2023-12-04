@@ -139,3 +139,5 @@ while wrongAnswers < 6:
 if wrongAnswers == 6:
     print("\nIZGUBILI STE!\n")
     print("Trazena rijec:", RIGHT_ANSWER)
+
+input("Press Enter to continue...")
